@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=PaoloGuimalan&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
    <img src="https://streak-stats.demolab.com?user=PaoloGuimalan&theme=radical" style="width: 400px; max-width: 100%" />
+   <img width="450em" src="https://github-profile-trophy.vercel.app/?username=PaoloGuimalan&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGuimalan&layout=compact&show_icons=true&theme=radical" />
 </div>
