@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=PaoloGuimalan&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
    <img src="https://streak-stats.demolab.com?user=PaoloGuimalan&theme=radical" style="width: 400px; max-width: 100%" />
-   <img width="100%" src="https://raw.githubusercontent.com/formidablae/formidablae/main/profile-3d-contrib/profile-night-green.svg">
+   <img width="100%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=PaoloGuimalan&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGuimalan&layout=compact&show_icons=true&theme=radical" />
 </div>
