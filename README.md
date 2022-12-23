@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=PaoloGuimalan&show_icons=true&theme=radical" style="width: 400px; max-width: 100%" />
    <img src="https://streak-stats.demolab.com?user=PaoloGuimalan&theme=radical" style="width: 400px; max-width: 100%" />
+   <img width="100%" src="./profile-3d-contrib/profile-night-green.svg">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGuimalan&layout=compact&show_icons=true&theme=radical" />
 </div>
