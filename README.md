@@ -4,9 +4,9 @@
 
 **Software Engineer** by profession. Serial tinkerer by default. 🛠️
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-paologuimalan.dev-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paologuimalan.dev)
-[![Chatterloop](https://img.shields.io/badge/Chatterloop-chatterloop.app-FF4088?style=for-the-badge&logo=rocket&logoColor=white)](https://chatterloop.app/)
-[![Neon Systems](https://img.shields.io/badge/Neon_Systems-neonsystems.net-00E5FF?style=for-the-badge&logo=zap&logoColor=black)](https://neonsystems.net/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paologuimalan.dev)
+[![Chatterloop](https://img.shields.io/badge/Chatterloop-FF4088?style=for-the-badge&logo=rocket&logoColor=white)](https://chatterloop.app/)
+[![Neon Systems](https://img.shields.io/badge/Neon_Systems-00E5FF?style=for-the-badge&logo=zap&logoColor=black)](https://neonsystems.net/)
 
 </div>
 
